@@ -4,9 +4,9 @@
 
 Data professional with 10+ years of experience across **Business Intelligence, Data Engineering, Data Science, and Marketing Analytics**, primarily within advertising and technology-driven organizations.
 
-Currently, I work as a **Senior Marketing Science Analyst (Contractor) supporting LinkedIn through Critical Mass**, helping transform marketing data into actionable insights and scalable reporting solutions.
+Currently, I work as a **Senior Marketing Science Analyst for Critical Mass**and as a **Senior Data Engineer at LinkedIn**, helping transform marketing data into actionable insights and scalable reporting solutions.
 
-Academically, I hold a **Master's Degree in Statistics from Pontificia Universidad Católica de Chile** and I am currently pursuing a **Master's in Artificial Intelligence (MAIA) at Universidad de los Andes**. My interests sit at the intersection of data, machine learning, and business strategy, with a strong focus on taking models from research to production through reliable data pipelines, robust validation, and scalable deployment practices.
+Academically, I hold a **Master's Degree in BI from Pontificia Universidad Católica de Chile** and I am currently pursuing a **Master's in Artificial Intelligence (MAIA) at Universidad de los Andes**. My interests sit at the intersection of data, machine learning, and business strategy, with a strong focus on taking models from research to production through reliable data pipelines, robust validation, and scalable deployment practices.
 
 ## 💼 Experience
 
