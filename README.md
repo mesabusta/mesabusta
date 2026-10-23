@@ -11,7 +11,7 @@ Academically, I hold a **Master's Degree in BI from Pontificia Universidad Cató
 ## 💼 Experience
 
 - **Senior Marketing Science Analyst · Critical Mass** · 2024 – Present · Remote
-- **Senior Data Eng · LinkedIn Pub** · 2025 - Present - Remote
+- **Senior Data Associate · LinkedIn Pub** · 2025 - Present - Remote
 - **Marketing Data Analyst · Lean Solutions Group** · 2022 – 2024 · Bogotá
 - **Data Analyst · Elemental Advisory** · 2021 – 2022 · Remote
 - **Market Research Analyst · BIOECOVAL** · 2018 – 2020 · Bogotá
