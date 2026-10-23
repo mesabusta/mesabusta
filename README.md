@@ -32,9 +32,6 @@ Academically, I hold a **Master's Degree in BI from Pontificia Universidad Cató
 
 ## 🎓 Master's in Artificial Intelligence — Uniandes
 
-Recent projects and labs:
-
-...
 
 Recent projects and labs:
 
