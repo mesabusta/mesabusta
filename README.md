@@ -30,9 +30,6 @@ Academically, I hold a **Master's Degree in BI from Pontificia Universidad Cató
 - Cloud Deployment on AWS
 - Data Products and End-to-End ML Systems
 
-## 🎓 Master's in Artificial Intelligence — Uniandes
-
-
 Recent projects and labs:
 
 | Project | What I did |
@@ -46,11 +43,11 @@ Recent projects and labs:
 ## 🛠️ Tools
 
 - **Languages:** Python, SQL
-- **BI & reporting:** Tableau, Datorama (Marketing Cloud Intelligence)
+- **BI & reporting:** Power Bi, Tableau, Datorama (Marketing Cloud Intelligence)
 - **Visualization:** Dash, Streamlit
 - **Data:** DBeaver, DVC
 - **ML / AI:** scikit-learn, functional data analysis (FPCA), time-series clustering, RAG, MCP agents, MLflow
-- **Deployment:** FastAPI, Docker, Docker Compose, AWS (EC2, ECS), Railway, GitHub Actions
+- **Deployment:** FastAPI, Docker, AWS (EC2, ECS), Railway, GitHub Actions
 
 ## 📫 Contact
 
